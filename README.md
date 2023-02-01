@@ -12,5 +12,5 @@ My talents:
 3 - I love learning new stuff, no challenge is too big for me.<br>
 4 - I know Unity and C# almost fully, been a programmer for nearly 2 years now. completely self taught.<br>
 
-![Robotnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
-
+![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=github-readme-stats)](https://github.com/Robotnik08)
