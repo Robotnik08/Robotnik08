@@ -14,3 +14,4 @@ My talents:
 
 ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
 [![Chess Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=ChessRobot)](https://github.com/Robotnik08/ChessRobot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=SlomeScript)](https://github.com/Robotnik08/SlomeScript)
