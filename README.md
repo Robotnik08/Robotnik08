@@ -13,4 +13,4 @@ My talents:
 4 - I know Unity and C# almost fully, been a programmer for nearly 2 years now. completely self taught.<br>
 
 ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=github-readme-stats)](https://github.com/Robotnik08)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=ChessRobot)](https://github.com/Robotnik08)
