@@ -1,6 +1,6 @@
 ### Hello
 
-I know Javascript
+I know Javascript, Unity, C# and C++
 <div id="header" align="center">
   <img src="https://slome.org/Assets/player/char.png" width="100"/>
 </div>
