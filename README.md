@@ -1,13 +1,10 @@
 ### Hello
 
 I know Javascript, Unity, C#, C++ and C
-<div id="header" align="center">
-  <img src="https://slome.org/Assets/player/char.png" width="100"/>
-</div>
 
 My talents:
 
-1 - Programming, I know over 10 programming language, I have build games, apps, websites, programming languages and more! Projects I'm most proud of are: <a href="https://github.com/Robotnik08/Dosato.git">Dosato</a>, <a href="https://github.com/Robotnik08/ChessRobot.git">Chess Robot (old)</a>
+1 - Programming, I know over 10 programming language, I have build games, apps, websites, programming languages and more! Projects I'm most proud of are: <a href="https://github.com/Robotnik08/Dosato.git">Dosato</a>, <a href="https://github.com/Robotnik08/ChessRobot.git">Chess Robot (old)</a> <br>
 2 - Fast learning, I learn incredibly fast.<br>
 3 - I love learning new stuff, no challenge is too big for me.<br>
 4 - I know Unity and C# almost fully, been a programmer for over 2 years now. completely self taught.<br>
