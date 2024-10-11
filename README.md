@@ -14,9 +14,10 @@ I am currently studying web development at GLU, after this I'm looking to do a b
 
 My talents:
 
-1 - Programming, I know over 10 programming languages, I have build games, apps, websites, programming languages and more! Projects I'm most proud of are: <a href="https://github.com/Robotnik08/Dosato.git">Dosato</a>, <a href="https://github.com/Robotnik08/ChessRobot.git">Chess Robot (old)</a> <br>
+1 - Programming, I know over 10 programming languages, I have build games, apps, websites, programming languages and more! Projects I'm most proud of are: <a href="https://github.com/Robotnik08/cdosato.git">Dosato</a>, <a href="https://github.com/Robotnik08/ChessRobot.git">Chess Robot (old)</a> <br>
 2 - Fast learning, I learn incredibly fast. I quickly understand subjects and problems and learn fast.<br>
 3 - I love learning new stuff, no challenge is too big for me. Giving up is not in my vocabulary<br>
+<br>
   [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08)](https://github.com/Robotnik08)
   ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
   [![Dosato Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=cdosato)](https://github.com/Robotnik08/cdosato)
