@@ -3,7 +3,7 @@
 I am a Dutch programmer looking to learn anything there is to learn!<br>
 Programming is more then just a hobby for me, everywhere I go I get inspired, I think about code all the time. <br>
 I've done a lot of things in my programming life, gradually seeking challenge, starting at Unity development I quickly learned web development and eventually low level development. <br>
-I've build some serious stuff, all without ever using tutorials (tutorials suck). I am currently very proud about <a href="https://github.com/Robotnik08/Dosato.git">Dosato</a> my own (serious) programming language!<br>
+I've build some serious stuff, all without ever using tutorials (tutorials suck). I am currently very proud about <a href="https://github.com/Robotnik08/cdosato">Dosato</a> my own (serious) programming language!<br>
 
 <br>
 You also may know me as the creator and lead developer of Slome, an indie game I've been working on for the past few years. <br>
