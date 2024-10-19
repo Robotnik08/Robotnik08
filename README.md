@@ -9,13 +9,13 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 - **Background**: Started with Unity development, moved to web development, and now focus on low-level programming.
 - **Programming Projects**: 
   - **Dosato**: My own programming language [Dosato](https://github.com/Robotnik08/cdosato).
-  - **Chess Robot**: Developed an AI-based Chess Robot [Chess Robot](https://github.com/Robotnik08/ChessRobot).
+  - **Chess Robot**: Developed a Chess Robot [Chess Robot](https://github.com/Robotnik08/ChessRobot).
   - **Slome**: Lead developer of *Slome*, an indie game I've been working on.
 - **Education**: Studying web development at GLU, planning to pursue a bachelor’s and potentially a master’s degree.
 - **Talents**:
-  1. **Programming Mastery**: Proficient in 10+ languages, experienced in building games, apps, websites, and programming languages.
+  1. **Programming**: Proficient in 10+ languages, experienced in building games, apps, websites, and programming languages.
   2. **Fast Learner**: Quickly grasp complex subjects and problems.
-  3. **Determined**: No challenge is too big; I never give up.
+  3. **Determined**: Good perseverance and motivation
 
 Check out my projects and GitHub stats below:
 - [Dosato](https://github.com/Robotnik08/cdosato)
