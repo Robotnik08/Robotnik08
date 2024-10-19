@@ -1,8 +1,4 @@
-Sure! Here's a more concise and information-driven version:
-
----
-
-**Hello, I'm Sebastiaan!**
+# Hello, I'm Sebastiaan!
 
 I'm a Dutch programmer passionate about coding, constantly seeking new challenges. Here's a bit about me:
 
