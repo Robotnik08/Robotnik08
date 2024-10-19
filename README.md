@@ -1,4 +1,4 @@
-# Hello, I'm Sebastiaan!
+# <div align="center" size="100px"><h2>Hello, I'm Sebastiaan!</h2></div>
 
 I'm a Dutch programmer passionate about coding, constantly seeking new challenges. Here's a bit about me:
 
@@ -33,5 +33,8 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 Check out my projects and GitHub stats below:
 - [Dosato](https://github.com/Robotnik08/cdosato)
 - [Chess Robot](https://github.com/Robotnik08/ChessRobot)
+- [Portfolio Website](https://github.com/Robotnik08/portfolio)
+- [SlomeJS](https://github.com/Robotnik08/SlomeJS-2)
+- [Raycaster](https://github.com/Robotnik08/raycaster)
   
 ![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08) ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
