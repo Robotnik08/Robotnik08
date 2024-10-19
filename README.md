@@ -1,24 +1,24 @@
-## Hello, my name is Sebastiaan!
+Sure! Here's a more concise and information-driven version:
 
-I am a Dutch programmer looking to learn anything there is to learn!<br>
-Programming is more then just a hobby for me, everywhere I go I get inspired, I think about code all the time. <br>
-I've done a lot of things in my programming life, gradually seeking challenge, starting at Unity development I quickly learned web development and eventually low level development. <br>
-I've build some serious stuff, all without ever using tutorials (tutorials suck). I am currently very proud about <a href="https://github.com/Robotnik08/cdosato">Dosato</a> my own (serious) programming language!<br>
+---
 
-<br>
-You also may know me as the creator and lead developer of Slome, an indie game I've been working on for the past few years. <br>
+**Hello, I'm Sebastiaan!**
 
-I am currently studying web development at GLU, after this I'm looking to do a bachelor and maybe going for a master after.<br>
+I'm a Dutch programmer passionate about coding, constantly seeking new challenges. Here's a bit about me:
 
+- **Background**: Started with Unity development, moved to web development, and now focus on low-level programming.
+- **Programming Projects**: 
+  - **Dosato**: My own programming language [Dosato](https://github.com/Robotnik08/cdosato).
+  - **Chess Robot**: Developed an AI-based Chess Robot [Chess Robot](https://github.com/Robotnik08/ChessRobot).
+  - **Slome**: Lead developer of *Slome*, an indie game I've been working on.
+- **Education**: Studying web development at GLU, planning to pursue a bachelor’s and potentially a master’s degree.
+- **Talents**:
+  1. **Programming Mastery**: Proficient in 10+ languages, experienced in building games, apps, websites, and programming languages.
+  2. **Fast Learner**: Quickly grasp complex subjects and problems.
+  3. **Determined**: No challenge is too big; I never give up.
 
-
-My talents:
-
-1 - Programming, I know over 10 programming languages, I have build games, apps, websites, programming languages and more! Projects I'm most proud of are: <a href="https://github.com/Robotnik08/cdosato.git">Dosato</a>, <a href="https://github.com/Robotnik08/ChessRobot.git">Chess Robot (old)</a> <br>
-2 - Fast learning, I learn incredibly fast. I quickly understand subjects and problems and learn fast.<br>
-3 - I love learning new stuff, no challenge is too big for me. Giving up is not in my vocabulary<br>
-<br>
-  [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08)](https://github.com/Robotnik08)
-  ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
-  [![Dosato Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=cdosato)](https://github.com/Robotnik08/cdosato)
-  [![Chess Card](https://github-readme-stats.vercel.app/api/pin/?username=Robotnik08&repo=ChessRobot)](https://github.com/Robotnik08/ChessRobot)
+Check out my projects and GitHub stats below:
+- [Dosato](https://github.com/Robotnik08/cdosato)
+- [Chess Robot](https://github.com/Robotnik08/ChessRobot)
+  
+![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08) ![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
