@@ -16,6 +16,7 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 ## Tech stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Dosato](https://img.shields.io/badge/Dosato-hotpink?style=for-the-badge&logoColor=white&link=https://github.com/Robotnik08/cdosato)](https://github.com/Robotnik08/cdosato)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Computer engineering](https://img.shields.io/badge/Computer%20engineering-gray?style=for-the-badge)
