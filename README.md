@@ -10,7 +10,7 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 - **Education**: Studying web development at GLU, planning to pursue a bachelor’s and potentially a master’s degree.
 - **Talents**:
   1. **Programming**: Proficient in 10+ languages, experienced in building games, apps, websites, and programming languages.
-  2. **Fast Learner**: Quickly grasp complex subjects and problems.
+  2. **Fast Learner**: Quickly grasp subjects and problems.
   3. **Determined**: Good perseverance and motivation
 
 ## Tech stack:
