@@ -36,6 +36,8 @@ Check out my projects and GitHub stats below:
 - [Portfolio Website](https://github.com/Robotnik08/portfolio)
 - [SlomeJS](https://github.com/Robotnik08/SlomeJS-2)
 - [Raycaster](https://github.com/Robotnik08/raycaster)
-  
-![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08) 
-![Robotnik08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08" alt="languageStats" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical" alt="GitHub stats" height="250px" />
+</div>
