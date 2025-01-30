@@ -40,3 +40,4 @@ Check out my projects and GitHub stats below:
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robotnik08&layout=compact" alt="languageStats" style="width: 50%; height: auto;" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=robotnik08)
