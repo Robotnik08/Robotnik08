@@ -9,9 +9,10 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
   - **Slome**: Lead developer of *Slome*, an indie game I've been working on.
 - **Education**: Studying web development at GLU, planning to pursue a bachelor’s and potentially a master’s degree.
 - **Talents**:
-  1. **Programming**: Proficient in 10+ languages, experienced in building games, apps, websites, and programming languages.
+  1. **Programming**: Proficient in 10+ languages, experienced in building games, apps, websites, programming languages, game engines.
   2. **Fast Learner**: Quickly grasp subjects and problems.
   3. **Determined**: Good perseverance and motivation
+- **Employment**: I work at X Laboratories as a full stack software developer.
 
 ## Tech stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,10 +31,10 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 
 Check out my projects and GitHub stats below:
 - [Dosato](https://github.com/Robotnik08/cdosato)
-- [Chess Robot](https://github.com/Robotnik08/ChessRobot)
-- [Portfolio Website](https://github.com/Robotnik08/portfolio)
+- [Chess Bot](https://github.com/Robotnik08/ChessBotC)
 - [SlomeJS](https://github.com/Robotnik08/SlomeJS-2)
 - [Raycaster](https://github.com/Robotnik08/raycaster)
+- [Portfolio Website](https://github.com/Robotnik08/portfolio)
 
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical" alt="GitHub stats" style="width: 50%; height: auto;" />
