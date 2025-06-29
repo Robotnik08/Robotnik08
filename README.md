@@ -7,7 +7,7 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
   - **Dosato**: My own programming language [Dosato](https://github.com/Robotnik08/cdosato).
   - **Chess Robot**: Developed a Chess Robot [Chess Robot](https://github.com/Robotnik08/ChessRobot).
   - **Slome**: Lead developer of *Slome*, an indie game I've been working on.
-- **Education**: Studying web development at GLU, planning to pursue a bachelor’s and potentially a master’s degree.
+- **Education**: Diploma in Webdevelopment at GLU. Looking to get a bachelor or masters
 - **Talents**:
   1. **Programming**: Proficient in 10+ languages, experienced in building games, apps, websites, programming languages, game engines.
   2. **Fast Learner**: Quickly grasp subjects and problems.
