@@ -36,9 +36,4 @@ Check out my projects and GitHub stats below:
 - [Raycaster](https://github.com/Robotnik08/raycaster)
 - [Portfolio Website](https://github.com/Robotnik08/portfolio)
 
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robotnik08&show_icons=true&theme=radical" alt="GitHub stats" style="width: 50%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotnik08&layout=compact&langs_count=14" alt="languageStats" style="width: 50%; height: auto;" />
-</div>
-
 ![](https://komarev.com/ghpvc/?username=robotnik08)
