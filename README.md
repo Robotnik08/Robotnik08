@@ -1,4 +1,4 @@
-# <div align="center"><h2>Hello, I'm Sebastiaan!</h2></div>
+# <div align="center">Hello, I'm Sebastiaan!</div>
 
 I'm a Dutch programmer passionate about coding, constantly seeking new challenges. Here's a bit about me:
 
