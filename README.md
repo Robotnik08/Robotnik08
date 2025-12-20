@@ -5,6 +5,7 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 - **Background**: Started with Unity development, moved to web development, and now focus on low-level programming.
 - **Programming Projects**: 
   - **Dosato**: My own programming language [Dosato](https://github.com/Robotnik08/cdosato).
+  - **FlipFlop Codes**: A programming puzzle event https://flipflop.slome.org
   - **Chess Robot**: Developed a Chess Robot [Chess Robot](https://github.com/Robotnik08/ChessBotC).
   - **Slome**: Lead developer of *Slome*, an indie game I've been working on.
 - **Education**: Diploma in Webdevelopment at GLU. Looking to get a bachelor or masters
