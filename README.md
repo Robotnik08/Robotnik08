@@ -1,6 +1,6 @@
 # <div align="center">Hello, I'm Sebastiaan!</div>
 
-I'm a Dutch programmer passionate about coding, constantly seeking new challenges. Here's a bit about me:
+I'm a Dutch guy liking programming, I am constantly seeking new challenges. Here's a bit about me:
 
 - **Background**: Started with Unity development, moved to web development, and now focus on low-level programming.
 - **Programming Projects**: 
@@ -30,8 +30,9 @@ I'm a Dutch programmer passionate about coding, constantly seeking new challenge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-Check out my projects and GitHub stats below:
+Check out my projects:
 - [Dosato](https://github.com/Robotnik08/cdosato)
+- [FlipFlop Codes](https://flipflop.slome.org)
 - [Chess Bot](https://github.com/Robotnik08/ChessBotC)
 - [SlomeJS](https://github.com/Robotnik08/SlomeJS-2)
 - [Raycaster](https://github.com/Robotnik08/raycaster)
